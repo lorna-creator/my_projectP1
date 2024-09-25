@@ -86,24 +86,15 @@ In aviation, more accidents occur under Visual Meteorological Conditions (VMC), 
 
 ## Conclusion
 The Cessna aircraft model is notorious for being involved in a significant number of aviation accidents, indicating a concerning safety record.
+
 When purchasing an aircraft, it is advisable to consider models that are least involved in accidents. These models are less frequently associated with accidents, based on the data analyzed.
+
 Aircrafts with more engines are more preferable,this is because of the outcomes that show the more the number of engines are related to the fewer numbers of accidents.
 
 ## Recommendations
 Investing in aircrafts with notably low cases of accidents is the best way to go when selecting aircrafts.This is because there will be less accidents and therefore promoting the business in terms of increasing their customers.
+
 Aircrafts with more engines tend to have fewer accidents. The company should get aircrafts with multiple engines for both commercial and private use.This is because they are safer and reliable which helps increase profits for the company. 
 
 When buying new aircrafts,it is wiese to choose models that have had fewer accidents. Looking at past data can help you find safer models. Buying these safer planes will help the company avoid accidents, stay on schedule, and make more money.
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -32,15 +32,42 @@ i)object: Indicates categorical or string data, such as accident details
 
 ii) float64: Represents numerical values with decimal points, often used for continuous data'
 
-#### Import the Relevant Libraries and read the data
-
+### Import the Relevant Libraries and read the data
 `python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 %matplotlib inline
-df = pd.read_csv('Aviation_Data.csv', dtype={6: 'object', 7: 'object', 28: 'object'})
+df= pd.read_csv('aviation_data.csv',index_col=0,encoding='ISO-8859-1',low_memory=False)
 df.head()
 `
+
+### Data Cleaning
+#### dropping data that has too many missing values preferably more than 40%
+`python
+dropped_columns=[]
+for x in df:
+    if (df[x].isna().sum() / len(df[x])) * 100 > 40:
+        dropped_columns.append(x)
+dropped_columns`
+
+#### Handling missing data
+`python
+df['Total.Fatal.Injuries'].fillna(df['Total.Fatal.Injuries'].median(),inplace=True)
+df['Total.Minor.Injuries'].fillna(df['Total.Minor.Injuries'].median(),inplace=True)
+df['Total.Serious.Injuries'].fillna(df['Total.Serious.Injuries'].median(),inplace=True)
+df['Total.Uninjured'].fillna(df['Total.Uninjured'].median(),inplace=True)
+df['Number.of.Engines'].fillna(df['Number.of.Engines'].mode(),inplace=True)`
+#### Filling misssing values
+`df=df.fillna(method='ffill').fillna(method='bfill')`
+
+## Graphical Representation
+### Trend of Accidents over the years
+![Number of Accidents over time since 1980](![Trend of Accidents since 1980](https://github.com/user-attachments/assets/571ba753-5041-4d63-97fc-cf1df0914096)
+
+
+
+
+
 

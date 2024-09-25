@@ -75,6 +75,10 @@ The graph above illustrates the top aircraft makes with the most accidents per y
 ![Number of accidents per aircraft make](lowest_make_accidents.png)
 The graph shows multiple alternative aircraft makes that have less accidents
 
+### Number of Accidents in relation to the number of engines
+![Percentage engines as per accidents](accidents_vs_engines.png)
+
+Aircrafts with 2 engines have the least amount of accidents compared to those with a single engine.It is therefore a lower risk to have  aircrafts with more engines
 #### Number of Accidents as Per Weather Conditions
 ![Number of Accidents in Different Weather Conditions](injuries_vs_weather.png)
 
@@ -84,6 +88,7 @@ In aviation, more accidents occur under Visual Meteorological Conditions (VMC), 
 The Cessna aircraft model is notorious for being involved in a significant number of aviation accidents, indicating a concerning safety record.
 
 ## Recommendations
+
 
 
 

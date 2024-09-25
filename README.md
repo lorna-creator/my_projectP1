@@ -64,7 +64,6 @@ df['Number.of.Engines'].fillna(df['Number.of.Engines'].mode(),inplace=True)`
 
 ## Graphical Representation
 ### Trend of Accidents over the years
-![Number of Accidents over time since 1980](![Trend of Accidents since 1980](https://github.com/user-attachments/assets/571ba753-5041-4d63-97fc-cf1df0914096)
 
 
 

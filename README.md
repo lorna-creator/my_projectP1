@@ -26,9 +26,10 @@ The dataset utilized for this analysis was gathered from Kaggle, originating fro
 In this project, we will apply our analytical skills to identify the safest aircraft options for the company's expansion into the aviation sector. We will analyze the aviation_data.csv dataset, sourced from the National Transportation Safety Board, which contains aviation accident records spanning from 1962 to 2023.
 
 Shape: The dataset contains 88,889 entries and 30 columns.
-Data Types: The data types listed represent the structure of the dataset pertaining to aviation accidents. Each row corresponds to an individual accident, and the columns capture various attributes of these incidents.
+Data Types: The data types listed represent the structure of the dataset related to aviation accidents. Each row corresponds to an individual accident, and the columns capture various attributes of these incidents.
 
 i)object: Indicates categorical or string data, such as accident details
+
 ii) float64: Represents numerical values with decimal points, often used for continuous data'
 
 #### Import the Relevant Libraries and read the data

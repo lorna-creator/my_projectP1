@@ -64,6 +64,8 @@ df['Number.of.Engines'].fillna(df['Number.of.Engines'].mode(),inplace=True)`
 
 ## Graphical Representation
 ### Trend of Accidents over the years
+![Aviation Trend](AccidentTrend.png)
+
 
 
 

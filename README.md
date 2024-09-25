@@ -64,8 +64,27 @@ df['Number.of.Engines'].fillna(df['Number.of.Engines'].mode(),inplace=True)`
 
 ## Graphical Representation
 ### Trend of Accidents over the years
+![Number of Aviation Accidents Over Time](aviation_accidents_trend.png)
 
-### Correlation of the Continous data Columns
+Overall, there's a clear downward trend. This means that there were fewer accidents over time which shows that flying has become safer compared to past years
+
+### Accident counts in relation to the make
+![Number of accidents per aircraft make](highest_make_acccidents.png)
+The graph above illustrates the top aircraft makes with the most accidents per year, with the Cessna make having the highest accident count.
+
+![Number of accidents per aircraft make](lowest_make_accidents.png)
+The graph shows multiple alternative aircraft makes that have less accidents
+
+#### Number of Accidents as Per Weather Conditions
+![Number of Accidents in Different Weather Conditions](injuries_vs_weather.png)
+
+In aviation, more accidents occur under Visual Meteorological Conditions (VMC), where pilots rely on visual references, compared to Instrument Meteorological Conditions (IMC), where they follow instrument-based rules. This suggests that accidents increase when visibility is good and pilots aren't using instruments, while stricter instrument usage in poor weather reduces accidents.
+
+## Conclusion
+The Cessna aircraft model is notorious for being involved in a significant number of aviation accidents, indicating a concerning safety record.
+
+## Recommendations
+
 
 
 

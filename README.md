@@ -22,6 +22,7 @@ The company is relatively new to the aviation sector and lacks in-depth knowledg
 ### Data Source
 The dataset utilized for this analysis was gathered from Kaggle, originating from the National Transportation Safety Board (NTSB) aviation accident database. This database has documented civil aviation accidents and selected incidents in the United States since 1962. It provides preliminary reports of accidents, which are updated as investigations progress. The goal of this dataset is to enhance the quality and safety of air travel through incident analysis.
 
+
 ### Data Overview
 In this project, we will apply our analytical skills to identify the safest aircraft options for the company's expansion into the aviation sector. We will analyze the aviation_data.csv dataset, sourced from the National Transportation Safety Board, which contains aviation accident records spanning from 1962 to 2023.
 
@@ -97,4 +98,11 @@ Investing in aircrafts with notably low cases of accidents is the best way to go
 Aircrafts with more engines tend to have fewer accidents. The company should get aircrafts with multiple engines for both commercial and private use.This is because they are safer and reliable which helps increase profits for the company. 
 
 When buying new aircrafts,it is wiese to choose models that have had fewer accidents. Looking at past data can help you find safer models. Buying these safer planes will help the company avoid accidents, stay on schedule, and make more money.
+
+### Tableu Link
+[View My Tableau Dashboard](https://public.tableau.com/app/profile/lorna.gatimu/viz/phase_1_tableu/Dashboard1?publish=yes)
+
+Preentation
+
+
 

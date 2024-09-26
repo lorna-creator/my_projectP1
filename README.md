@@ -1,4 +1,6 @@
 # Comprehensive Aircraft Risk Assessment for Startup Business Operations
+![image](https://github.com/user-attachments/assets/aa2d47a5-48f6-4b7b-8cd1-6bbf8e418580)
+
 
 ## Description
 This project aims to conduct a comprehensive analysis of various aircraft models to identify those with the lowest risks, thus facilitating a strategic entry into the aviation industry. As the company diversifies its business portfolio by acquiring aircraft for both commercial and private operations, it is critical to ensure that these investments are sound and minimize potential risks.

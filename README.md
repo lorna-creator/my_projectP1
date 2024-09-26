@@ -110,4 +110,4 @@ When buying new aircrafts,it is wiese to choose models that have had fewer accid
 View Tableu 
 [My Tableu](https://public.tableau.com/app/profile/lorna.gatimu/viz/phase_1_tableu/Dashboard1?publish=yes)
 
-Presentation
+[Presentation](https://docs.google.com/presentation/d/1-EkJnl9R06Y3Di62dI4WF3BbP5xsWgnCI5--7ps2kXs/edit#slide=id.gc6fa3c898_0_0)

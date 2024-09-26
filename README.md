@@ -105,3 +105,7 @@ Aircrafts with more engines tend to have fewer accidents. The company should get
 
 When buying new aircrafts,it is wiese to choose models that have had fewer accidents. Looking at past data can help you find safer models. Buying these safer planes will help the company avoid accidents, stay on schedule, and make more money.
 
+View Tableu 
+[My Tableu](https://public.tableau.com/app/profile/lorna.gatimu/viz/phase_1_tableu/Dashboard1?publish=yes)
+
+Presentation

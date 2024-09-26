@@ -79,6 +79,10 @@ The graph above illustrates the top aircraft makes with the most accidents per y
 ![Accidents per aircraft make](![image](https://github.com/user-attachments/assets/b147911d-c34e-4ff1-9d20-3a50f5078cc1)
 
 The graph shows multiple alternative aircraft makes that have less accidents
+Now let's look at the Make of the aircrafts and their viability for the company
+[Viable makes]![image](https://github.com/user-attachments/assets/5700c2f7-1e4a-4d52-a2f8-32d0c527a67c)
+
+[Viable models]![image](https://github.com/user-attachments/assets/a0b96d4a-95b0-449a-81f3-a3fcb92dfca4)
 
 ### Number of Accidents in relation to the number of engines
 ![engines as per accidents](![image](https://github.com/user-attachments/assets/dc16aff7-6bce-4f35-9574-307a62e88aa6)
@@ -90,6 +94,8 @@ The graph shows multiple alternative aircraft makes that have less accidents
 Aircrafts with 2 engines have the least amount of accidents compared to those with a single engine.It is therefore a lower risk to have  aircrafts with more engines
 #### Number of Accidents as Per Weather Conditions
 ![Accidents in Different Weather Conditions](![image](https://github.com/user-attachments/assets/f72fe5c0-7528-4f68-8ddc-1e5c110e09f5)
+### Accidents by engine types
+[Total Accidents by engine types]![image](https://github.com/user-attachments/assets/3cb62af7-9e03-4ace-9602-cd30a36cd195)
 
 In aviation, more accidents occur under Visual Meteorological Conditions (VMC), where pilots rely on visual references, compared to Instrument Meteorological Conditions (IMC), where they follow instrument-based rules. This suggests that accidents increase when visibility is good and pilots aren't using instruments, while stricter instrument usage in poor weather reduces accidents.
 
